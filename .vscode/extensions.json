@@ -1,0 +1,31 @@
+{
+    "recommendations": [
+        // Show errors in the code
+        "usernamehw.errorlens",
+
+        // Show trailing spaces
+        "shardulm94.trailing-spaces",
+
+        // JavaScript linting
+        "dbaeumer.vscode-eslint",
+
+        // Style linting
+        "stylelint.vscode-stylelint",
+
+        // PHP linting
+        "ikappas.phpcs",
+
+        // Smart suggestions
+        "visualstudioexptteam.vscodeintellicode",
+        "bmewburn.vscode-intelephense-client",
+
+        // Debugger for Firefox
+        "firefox-devtools.vscode-firefox-debug",
+
+        // Docker integration
+        "ms-azuretools.vscode-docker",
+
+        // GitHub integration
+        "github.vscode-pull-request-github",
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    // spelling settings
+    "cSpell.enableFiletypes": [
+        "!json"
+    ],
+    "cSpell.words": [
+        "Stateful",
+        "Unmount",
+        "CRACO",
+        "Magento",
+        "REBEM",
+        "Scandiweb",
+        "scandipwa",
+        "tilework"
+    ],
+
+    // eslint automatic formatting on save
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+
+    // search settings
+    "search.exclude": {
+        "**/Magento_Theme": true
+    },
+
+    // php code sniffer settings
+    "phpcs.standard": "Magento2"
+}

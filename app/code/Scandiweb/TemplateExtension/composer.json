@@ -1,0 +1,15 @@
+{
+    "name": "scandiweb/template-extension",
+    "description": "REPLACE THIS backend compatibility ScandiPWA",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Scandiweb\\TemplateExtension\\": ""
+        }
+    },
+    "require": {}
+}
